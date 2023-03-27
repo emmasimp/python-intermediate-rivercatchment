@@ -19,7 +19,7 @@ def read_variable_from_csv(filename):
     :return: 2D array of given variable. Index will be dates,
              Columns will be the individual sites
              
-             
+    making a small change to test commit         
     """
     dataset = pd.read_csv(filename, usecols=['Date', 'Site', 'Rainfall (mm)'])
 
