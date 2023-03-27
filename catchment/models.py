@@ -18,6 +18,8 @@ def read_variable_from_csv(filename):
     :param filename: Filename of CSV to load
     :return: 2D array of given variable. Index will be dates,
              Columns will be the individual sites
+             
+             
     """
     dataset = pd.read_csv(filename, usecols=['Date', 'Site', 'Rainfall (mm)'])
 
