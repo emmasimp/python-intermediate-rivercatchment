@@ -1,3 +1,7 @@
+
+![Mozilla Add-on](https://img.shields.io/amo/dw/dustman)
+![GitHub top language](https://img.shields.io/github/languages/top/emmasimp/python-intermediate-rivercatchment)
+
 # Introduction
 
 This is a template software project repository used by the Earth Science focused [Intermediate Research Software Development Skills In Python](https://github.com/UoMResearchIT/python-intermediate-development-nerc) course.
